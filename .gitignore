@@ -1,0 +1,13 @@
+main
+*.out
+*.o
+*.bc
+*.i
+*.ii
+*.s
+*.exe
+/lib
+/obj
+/log
+/tmp
+/temp
